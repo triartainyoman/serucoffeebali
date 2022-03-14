@@ -7411,3 +7411,12 @@ html.iex .img-box img {
   height: 400px;
   object-fit: cover;
 }
+
+.order-card {
+  margin-bottom: 20px;
+}
+
+.order-card button {
+  margin-top: 10px;
+  width: 100%;
+}
