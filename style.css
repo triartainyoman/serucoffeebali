@@ -1206,27 +1206,27 @@ header .dropdown-submenu > .dropdown-menu {
 
 .social-group [class*="facebook"]:hover,
 .social-colors [class*="facebook"] {
-  background-color: #3b5998;
+  background-color: #464646;
 }
 
 .social-group [class*="twitter"]:hover,
 .social-colors [class*="twitter"] {
-  background-color: #3b8aca;
+  background-color: #464646;
 }
 
 .social-group [class*="google"]:hover,
 .social-colors [class*="google"] {
-  background-color: #d7473d;
+  background-color: #464646;
 }
 
 .social-group [class*="linkedin"]:hover,
 .social-colors [class*="linkedin"] {
-  background-color: #0077b5;
+  background-color: #464646;
 }
 
 .social-group [class*="youtube"]:hover,
 .social-colors [class*="youtube"] {
-  background-color: #cc181e;
+  background-color: #464646;
 }
 
 .social-group [class*="instagram"]:hover,

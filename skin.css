@@ -1628,7 +1628,7 @@ div .countdown > div:last-child:after {
 
 .btn-sm i {
   font-size: 17px;
-  transform: translateY(3px);
+  transform: translateY(1px);
   line-height: 16px;
 }
 
