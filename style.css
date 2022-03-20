@@ -1304,7 +1304,7 @@ header.fixed-top.scroll-css .subline-bar {
 
 .navbar-main,
 .nav.inner {
-  background-color: #ffffff;
+  background-color: #fdf6ec;
   margin-bottom: 0;
   border: none;
 }
@@ -5286,7 +5286,7 @@ SECTIONS
 */
 .section-empty,
 .footer-parallax-container.bg-color {
-  background-color: #fff;
+  background-color: #fdf6ec;
   position: relative;
   z-index: 3;
   overflow: hidden;
