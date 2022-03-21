@@ -3227,9 +3227,6 @@ TEMPLATE - SINGLE - POST
   width: 100%;
 }
 
-.comment-list .col-md-11 {
-}
-
 .comment-list img {
   margin-top: 5px;
   margin-left: 15px;
@@ -4107,6 +4104,7 @@ IMAGE BOX
   bottom: 0;
   opacity: 1;
   transition: none;
+  transform: translateZ(0);
   -webkit-transform: translateZ(0);
 }
 
@@ -4139,6 +4137,7 @@ IMAGE BOX
 .img-box img {
   z-index: 2;
   position: relative;
+  transform: translateZ(0);
   -webkit-transform: translateZ(0);
 }
 
@@ -4643,9 +4642,6 @@ LIST GRID & MASO
   padding-right: 20px;
 }
 
-.slimScrollBar {
-}
-
 .scroll-content {
   padding-right: 25px;
 }
@@ -5013,8 +5009,6 @@ DROPCAPS
   font-style: normal;
 }
 
-.dropcap.a {
-}
 /* 
 ==============================
 SEPARATORS  
@@ -5378,7 +5372,7 @@ SECTIONS
 
 .section-bg-color,
 .section-two-blocks > .row > div:last-child {
-  background-color: #f7f7f7;
+  background-color: #fdf6ec;
 }
 
 .section-two-blocks {

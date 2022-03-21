@@ -630,9 +630,6 @@ body .big-padding {
   width: calc(100% + 30px);
 }
 
-.no-paddings-grid .content {
-}
-
 .section-bg-image.grunge-border-gray,
 .section-bg-image.grunge-border,
 .section-bg-image.grunge-border-double,
@@ -2989,11 +2986,6 @@ body .niche-box-post .block-infos {
 .advs-box-side-img.boxed .col-md-8 {
   padding-top: 30px;
   padding-bottom: 30px;
-}
-
-.advs-box-side-img.boxed-inverse .img-box,
-.advs-box-side-img.boxed .img-box {
-  /* width: 100%; */
 }
 
 .advs-box-side-img .img-box {
